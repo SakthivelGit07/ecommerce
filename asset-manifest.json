@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ecommerce/static/css/main.0eaa3dc0.css",
-    "main.js": "/ecommerce/static/js/main.e8ab10ee.js",
+    "main.js": "/ecommerce/static/js/main.33a23eca.js",
     "static/media/frige.png": "/ecommerce/static/media/frige.781f1499543c7186f194.png",
     "static/media/realme.png": "/ecommerce/static/media/realme.b31fb50ac734587786fb.png",
     "static/media/tv.png": "/ecommerce/static/media/tv.befd683a533b2e0a7cc1.png",
@@ -14,10 +14,10 @@
     "static/media/onlineshopp-1.avif": "/ecommerce/static/media/onlineshopp-1.37996c2d2e18c3f8e52e.avif",
     "index.html": "/ecommerce/index.html",
     "main.0eaa3dc0.css.map": "/ecommerce/static/css/main.0eaa3dc0.css.map",
-    "main.e8ab10ee.js.map": "/ecommerce/static/js/main.e8ab10ee.js.map"
+    "main.33a23eca.js.map": "/ecommerce/static/js/main.33a23eca.js.map"
   },
   "entrypoints": [
     "static/css/main.0eaa3dc0.css",
-    "static/js/main.e8ab10ee.js"
+    "static/js/main.33a23eca.js"
   ]
 }
