@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.450f78d7.css",
-    "main.js": "/ecommerce/static/js/main.3387854e.js",
+    "main.css": "/ecommerce/static/css/main.11f57def.css",
+    "main.js": "/ecommerce/static/js/main.a7b33023.js",
     "static/media/frige.png": "/ecommerce/static/media/frige.781f1499543c7186f194.png",
     "static/media/realme.png": "/ecommerce/static/media/realme.b31fb50ac734587786fb.png",
     "static/media/tv.png": "/ecommerce/static/media/tv.befd683a533b2e0a7cc1.png",
@@ -13,11 +13,11 @@
     "static/media/watch.png": "/ecommerce/static/media/watch.1672e99c7926b9f0f0fe.png",
     "static/media/onlineshopp-1.avif": "/ecommerce/static/media/onlineshopp-1.37996c2d2e18c3f8e52e.avif",
     "index.html": "/ecommerce/index.html",
-    "main.450f78d7.css.map": "/ecommerce/static/css/main.450f78d7.css.map",
-    "main.3387854e.js.map": "/ecommerce/static/js/main.3387854e.js.map"
+    "main.11f57def.css.map": "/ecommerce/static/css/main.11f57def.css.map",
+    "main.a7b33023.js.map": "/ecommerce/static/js/main.a7b33023.js.map"
   },
   "entrypoints": [
-    "static/css/main.450f78d7.css",
-    "static/js/main.3387854e.js"
+    "static/css/main.11f57def.css",
+    "static/js/main.a7b33023.js"
   ]
 }
