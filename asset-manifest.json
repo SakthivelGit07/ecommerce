@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/ecommerce/static/css/main.172c8a10.css",
-    "main.js": "/ecommerce/static/js/main.898c758d.js",
+    "main.css": "/ecommerce/static/css/main.c4d0debf.css",
+    "main.js": "/ecommerce/static/js/main.0a897896.js",
     "static/media/frige.png": "/ecommerce/static/media/frige.781f1499543c7186f194.png",
     "static/media/realme.png": "/ecommerce/static/media/realme.b31fb50ac734587786fb.png",
     "static/media/tv.png": "/ecommerce/static/media/tv.befd683a533b2e0a7cc1.png",
     "static/media/headphone1.png": "/ecommerce/static/media/headphone1.dede55855b92171b4a9a.png",
+    "static/media/shopping-bg-2.png": "/ecommerce/static/media/shopping-bg-2.b2eab1ac5d8b82844780.png",
     "static/media/iphone.png": "/ecommerce/static/media/iphone.aa29719fffda4e8e789e.png",
     "static/media/Samsung.png": "/ecommerce/static/media/Samsung.dc8d96b11a607565da9b.png",
     "static/media/speaker.png": "/ecommerce/static/media/speaker.ee13fcbc5308423f7fe6.png",
     "static/media/oppo.png": "/ecommerce/static/media/oppo.96d1228cfe04c13f165e.png",
     "static/media/watch.png": "/ecommerce/static/media/watch.1672e99c7926b9f0f0fe.png",
-    "static/media/onlineshopp-1.avif": "/ecommerce/static/media/onlineshopp-1.37996c2d2e18c3f8e52e.avif",
+    "static/media/shopimage.jpg": "/ecommerce/static/media/shopimage.b7bc0249b5698532447c.jpg",
+    "static/media/cartbg.jpg": "/ecommerce/static/media/cartbg.ba302e7c7a12a37540ce.jpg",
     "index.html": "/ecommerce/index.html",
-    "main.172c8a10.css.map": "/ecommerce/static/css/main.172c8a10.css.map",
-    "main.898c758d.js.map": "/ecommerce/static/js/main.898c758d.js.map"
+    "main.c4d0debf.css.map": "/ecommerce/static/css/main.c4d0debf.css.map",
+    "main.0a897896.js.map": "/ecommerce/static/js/main.0a897896.js.map"
   },
   "entrypoints": [
-    "static/css/main.172c8a10.css",
-    "static/js/main.898c758d.js"
+    "static/css/main.c4d0debf.css",
+    "static/js/main.0a897896.js"
   ]
 }
